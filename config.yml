@@ -6,7 +6,7 @@ permalink: /:title
 url: https://makler-fischer.net
 author: "Manuel Fischer"
 
-# Jekyll GitHub Plugins
+# Jekyll GitHub Plugins 
 plugins:
   - jekyll-sitemap
   - jekyll-feed
