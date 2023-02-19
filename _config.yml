@@ -12,7 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-coffeescript
-  - jekyll-admin
 
 sass:
     sass_dir: _scss
