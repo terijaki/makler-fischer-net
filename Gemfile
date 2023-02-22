@@ -12,3 +12,5 @@ group :jekyll_plugins do
     gem "jekyll-relative-links"
     gem "jekyll-webp"
 end
+
+gem "webrick"
