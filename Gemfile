@@ -10,7 +10,6 @@ group :jekyll_plugins do
     gem "jekyll-include-cache"
     gem "jekyll-optional-front-matter"
     gem "jekyll-relative-links"
-    gem "jekyll-webp"
 end
 
 gem "webrick"

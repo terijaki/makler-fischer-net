@@ -15,7 +15,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-optional-front-matter
   - jekyll-relative-links
-  - jekyll-webp
 
 sass:
     sass_dir: _scss
